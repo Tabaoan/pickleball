@@ -1,0 +1,15 @@
+##  PHÂN TÍCH PHA BÓNG #3 (Backhand)
+
+1. **Độ ổn định:** Không ổn định. Góc khuỷu tay phải biến thiên rất lớn (≈18° → 177° rồi tụt đột ngột về ≈32° tại t≈8.239), cho thấy nhịp vung/điểm chạm không mượt hoặc dữ liệu bắt khung bị “gãy” ở giữa pha.
+
+2. **Lỗi vi phạm (Timeline):**
+   - **t=6.967 → 7.234:** **Tư thế chuẩn bị quá “cứng gối” (thiếu hạ trọng tâm)** (Góc gối phải/trái ≈175–178° | Chuẩn Ready_Position: **135–155°**).  
+     *Lý do:* Backhand hiệu quả cần gối chùng để giữ thăng bằng và tạo lực từ chân–hông; gối gần duỗi thẳng làm giảm ổn định và khó kiểm soát hướng bóng.
+   - **t=8.239:** **Gãy chuỗi động tác / mất liên tục ở tay đánh** (Khuỷu tay phải **32.3°** sau khi vừa ở mức **176.4°** tại t=8.172 | Không phù hợp cơ chế vung backhand bình thường).  
+     *Lý do:* Trong backhand, khuỷu tay không “sập” đột ngột như vậy ngay sau pha duỗi; thường sẽ giảm dần theo follow-through. Đây là dấu hiệu kỹ thuật bị ngắt (hoặc bắt khung sai), làm giảm độ tin cậy của pha.
+   - **t=8.373 → 8.407:** **Tay không đánh (trái) bị “khóa” bất thường** (Khuỷu tay trái **1.3° → 0.7°** | Không có chuẩn trong Dictionary, nhưng là bất thường sinh học/kỹ thuật).  
+     *Lý do:* Tay còn lại thường hỗ trợ giữ thăng bằng/định hướng; “khóa” gần 0° thường là lỗi tracking hoặc tư thế rất xấu, dễ kéo lệch vai và mất kiểm soát.
+
+3. **Kết luận:** **KHÔNG ĐẠT** (vi phạm rõ ràng tư thế nền: gối không đạt chuẩn Ready; thêm điểm “gãy” lớn ở khuỷu tay làm pha backhand thiếu mượt và khó coi là đúng kỹ thuật).
+
+4. **Lời khuyên:** Hạ trọng tâm rõ ràng (chùng gối về khoảng **135–155°**) và giữ nhịp vung liên tục qua điểm chạm (không “sập” khuỷu tay ngay sau khi duỗi).

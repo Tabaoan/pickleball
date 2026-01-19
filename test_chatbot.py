@@ -18,9 +18,9 @@ if not api_key:
 client = OpenAI(api_key=api_key)
 
 # Folder chứa các file JSON động tác (Output của bước trước)
-DATA_FOLDER = r"C:\Users\tabao\OneDrive\Desktop\Vitex\test_keypoint\moves_data"
-STANDARDS_PATH = r"C:\Users\tabao\OneDrive\Desktop\Vitex\test_keypoint\dictionary_official.json"
-REPORT_FOLDER = r"C:\Users\tabao\OneDrive\Desktop\Vitex\test_keypoint\reports" 
+DATA_FOLDER = r"moves_data"
+STANDARDS_PATH = r"dictionary_official.json"
+REPORT_FOLDER = r"reports" 
 
 # Tạo folder báo cáo nếu chưa có
 if not os.path.exists(REPORT_FOLDER):
@@ -84,11 +84,12 @@ def analyze_single_file(file_path, standards_data):
     DỮ LIỆU TIÊU CHUẨN (Dictionary):
     {json.dumps(standards_data, ensure_ascii=False)}
 
-    DỮ LIỆU THỰC TẾ (Time-series của người chơi):
+    DỮ LIỆU THỰC TẾ (Time-series các góc của frame theo thời gian của 1 động tác người chơi):
     {json.dumps(compact_frames, ensure_ascii=False)}
 
     --- YÊU CẦU PHÂN TÍCH ---
-    Hãy kiểm tra xem người chơi có thực hiện ĐÚNG kỹ thuật của động tác "{move_type}" hay không dựa trên Dictionary chuẩn.
+    Hãy kiểm tra xem người chơi có thực hiện ĐÚNG kỹ thuật của động tác "{move_type}" hay không dựa
+    trên Dictionary chuẩn và kiến thức về pickleball của bạnbạn.
 
     HÃY TRẢ LỜI NGẮN GỌN, SÚC TÍCH THEO MẪU SAU:
 
@@ -97,15 +98,15 @@ def analyze_single_file(file_path, standards_data):
     1. **Độ ổn định:** (Nhận xét về sự mượt mà của biểu đồ góc)
     2. **Lỗi vi phạm (Timeline):**
        - **t=[Giây]:** [Tên lỗi] (Góc đo được: ... | Chuẩn: ...).
-       (Chỉ liệt kê nếu có lỗi nghiêm trọng vượt ngưỡng)
-    
+       Nêu rõ lí do tại sao bạn cho rằng đây là lỗi vi phạm
+    phạm
     3. **Kết luận:** [ĐẠT / KHÔNG ĐẠT]
     4. **Lời khuyên:** [1 câu sửa lỗi]
     """
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # Dùng gpt-4o-mini để tiết kiệm nếu muốn
+            model="gpt-5.2", # Dùng gpt-4o-mini để tiết kiệm nếu muốn
             messages=[
                 {"role": "system", "content": "Bạn là chuyên gia phân tích dữ liệu thể thao khắt khe."},
                 {"role": "user", "content": prompt}

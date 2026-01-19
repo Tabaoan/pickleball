@@ -1,0 +1,17 @@
+##  PHÂN TÍCH PHA BÓNG #2 (Backhand)
+
+1. **Độ ổn định:** Không ổn định; các góc khuỷu (đặc biệt Right Elbow) biến thiên rất gắt và có nhiều “điểm rơi” bất thường (tụt xuống ~10–40° rồi bật lại), cho thấy động tác không mượt/khó kiểm soát (hoặc có nhiễu tracking).
+
+2. **Lỗi vi phạm (Timeline):**
+   - **t=4.388s:** Gối quá thấp/không đúng tư thế sẵn sàng (Right Knee: **118.5°** | Chuẩn Ready_Position: **135–155°**).  
+     *Lý do:* Backhand tốt cần nền tảng chân ổn định; gối gập quá sâu dễ làm mất thăng bằng và timing.
+   - **t=4.957s:** Khuỷu tay gập quá nhiều (Right Elbow: **116.8°** | Chuẩn Volley Impact_Extension: **130–160°**).  
+     *Lý do:* Với backhand đánh nhanh/đỡ bóng (kiểu volley/drive), khuỷu nên “mở” hơn để tạo mặt vợt ổn định và lực đi thẳng.
+   - **t=5.861s:** Góc khuỷu bất thường/“gãy tay” (Right Elbow: **11.9°** | Chuẩn kỹ thuật thực tế: không nên tụt cực thấp như vậy).  
+     *Lý do:* Đây là dấu hiệu vung tay bị gập/thu quá mức (hoặc lỗi tracking), thường làm mặt vợt sập và mất kiểm soát hướng bóng.
+   - **t=6.397s:** Gối duỗi quá thẳng, mất tư thế athletic (Left Knee: **111.7°** | Chuẩn Ready_Position: **135–155°**).  
+     *Lý do:* Backhand cần hạ trọng tâm vừa đủ và giữ gối “đàn hồi”; gối quá gập/hoặc chuyển trạng thái thất thường làm giảm ổn định khi tiếp xúc bóng.
+
+3. **Kết luận:** **KHÔNG ĐẠT**
+
+4. **Lời khuyên:** Giữ “athletic stance” ổn định (gối ~135–155°) và hạn chế gập khuỷu quá sâu—ưu tiên đánh backhand bằng xoay vai/hông + khuỷu mở vừa (≈130–160°) để mặt vợt chắc và đường bóng ổn định.

@@ -2,3 +2,5 @@ openai
 python-dotenv
 ultralytics
 numpy
+opencv-python>=4.8.0
+Pillow>=10.0.0

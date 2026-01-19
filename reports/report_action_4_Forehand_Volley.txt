@@ -1,0 +1,17 @@
+##  PHÂN TÍCH PHA BÓNG #4 (Forehand_Volley)
+
+1. **Độ ổn định:** Biểu đồ góc tay phải (Right Elbow) tăng rất mạnh từ ~20° lên ~175° trong thời gian ngắn rồi giữ cao; chuyển động “giật” và biên độ quá lớn với một cú volley (volley chuẩn thường ngắn, gọn, ít backswing). Gối đa phần duỗi thẳng, chỉ về cuối mới hạ xuống mức ~149–154°.
+
+2. **Lỗi vi phạm (Timeline):**
+   - **t=9.412 → 9.780:** **Backswing/Set vợt quá sâu + khuỷu tay co quá mức (không đúng volley gọn)** (Right Elbow: **19.9–96.6°** | Chuẩn Volley cần “punch” ngắn, và tại tiếp xúc nên hướng tới **Impact_Extension 130–160°**).  
+     *Lý do:* Khuỷu tay co quá nhiều cho thấy đang “vung”/lấy đà như drive hơn là chặn-volley; dễ trễ nhịp và mất kiểm soát.
+   - **t=9.813:** **Duỗi tay quá mức tại vùng tiếp xúc (over-extension)** (Right Elbow: **165.0°** | Chuẩn Volley Impact_Extension: **130–160°**).  
+     *Lý do:* Duỗi quá thẳng làm mặt vợt khó ổn định, bóng dễ bay dài và giảm khả năng “block”/điều hướng.
+   - **t=9.847 → 10.249:** **Tiếp tục over-extension kéo dài** (Right Elbow: **172.6–177.6°** | Chuẩn: **130–160°**).  
+     *Lý do:* Sau tiếp xúc vẫn “đẩy” dài thay vì chặn ngắn; đặc trưng của drive/push hơn là volley chuẩn.
+   - **t=9.412 → 9.847 (đặc biệt 9.412–9.780):** **Thiếu hạ trọng tâm/ready base** (Right Knee: **175–178°**, Left Knee: **168–180°** | Ready_Position Knee_Angle chuẩn: **135–155°**).  
+     *Lý do:* Gối quá thẳng khiến phản xạ volley chậm, khó giữ thăng bằng và kiểm soát hướng bóng khi bị ép nhanh trên lưới.
+
+3. **Kết luận:** **KHÔNG ĐẠT** (biên độ tay quá lớn, duỗi khuỷu vượt chuẩn volley, và trọng tâm quá cao).
+
+4. **Lời khuyên:** Giữ **gối chùng 135–155°**, chuẩn bị vợt **trước người**, và volley theo kiểu **“punch” ngắn** để khuỷu tay ở **130–160°** tại tiếp xúc (không vung dài/duỗi thẳng hết cỡ).

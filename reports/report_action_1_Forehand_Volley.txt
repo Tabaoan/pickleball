@@ -1,0 +1,17 @@
+##  PHÂN TÍCH PHA BÓNG #1 (Forehand_Volley)
+
+1. **Độ ổn định:** Không ổn định; góc khuỷu tay phải và vai phải biến thiên rất “gãy” (có đoạn tụt về ~0–30° rồi bật lại ~160–175°), cho thấy động tác không mượt và/hoặc có nhiễu tracking, khó duy trì cấu trúc volley ngắn-gọn.
+
+2. **Lỗi vi phạm (Timeline):**
+   - **t=1.340s → 1.474s:** **Thiếu duỗi tay tại điểm chạm (Impact_Extension không đạt)** (Right Elbow ~134.2° → 101.1° | **Chuẩn Volley: 130–160°**).  
+     *Lý do:* Volley chuẩn cần tay tương đối “firm” (duỗi vừa) để chặn/đẩy bóng; khuỷu gập sâu ~100° giống động tác kéo vợt/đánh drive hơn là volley.
+   - **t=1.574s:** **Gập khuỷu quá mức / “đập cổ tay”** (Right Elbow **51.8°** | **Chuẩn: 130–160°**).  
+     *Lý do:* Đây là mức gập cực lớn, thường đi kèm backswing/whip; volley đúng kỹ thuật không có biên độ khuỷu kiểu này.
+   - **t=1.943s → 2.278s:** **Mất cấu trúc volley, khuỷu tay sụp liên tục** (Right Elbow ~55.0° → 30.1° | **Chuẩn: 130–160°**).  
+     *Lý do:* Chuỗi gập sâu kéo dài cho thấy đang “swing” hoặc thu tay quá nhiều; volley cần đường vợt ngắn, ổn định.
+   - **t=2.914s → 3.215s:** **Khuỷu tay phải gần như “gãy”/thu quá sâu** (Right Elbow **26.0° → 92.0°** | **Chuẩn: 130–160°**).  
+     *Lý do:* Không còn là động tác block/punch volley; biên độ này làm giảm kiểm soát và tăng lỗi timing.
+
+3. **Kết luận:** **KHÔNG ĐẠT**
+
+4. **Lời khuyên:** Giữ khuỷu tay phải “firm” ở khoảng **130–160°** và thực hiện volley kiểu **block/punch ngắn** (không kéo vợt ra sau, không thu khuỷu sâu).
