@@ -1,0 +1,73 @@
+{
+  "Ready_Position": {
+    "Knee_Angle": {
+      "min": 135,
+      "max": 155,
+      "unit": "degree"
+    },
+    "Elbow_Angle": {
+      "min": 80,
+      "max": 110,
+      "unit": "degree"
+    },
+    "Feet_Width_Ratio": {
+      "min": 1.0,
+      "max": 1.5,
+      "unit": "ratio"
+    }
+  },
+  "Serve": {
+    "Impact_Elbow": {
+      "min": 160,
+      "max": 180,
+      "unit": "degree"
+    },
+    "Impact_Shoulder_Armpit": {
+      "min": 10,
+      "max": 50,
+      "unit": "degree"
+    },
+    "Wrist_Height_Check": {
+      "enabled": true,
+      "condition": "Ball_Y > Navel_Y"
+    }
+  },
+  "Forehand_Drive": {
+    "Prep_Elbow": {
+      "min": 100,
+      "max": 135,
+      "unit": "degree"
+    },
+    "Impact_Elbow": {
+      "min": 140,
+      "max": 165,
+      "unit": "degree"
+    },
+    "Finish_Elbow": {
+      "min": 60,
+      "max": 100,
+      "unit": "degree"
+    }
+  },
+  "Dink": {
+    "Stability_Threshold": {
+      "max_variance": 15,
+      "unit": "degree"
+    },
+    "Knee_Angle_Avg": {
+      "min": 100,
+      "max": 140,
+      "unit": "degree"
+    }
+  },
+  "Volley": {
+    "Backswing_Depth": {
+      "allow_behind_body": false
+    },
+    "Impact_Extension": {
+      "min": 130,
+      "max": 160,
+      "unit": "degree"
+    }
+  }
+}

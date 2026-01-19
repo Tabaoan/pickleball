@@ -1,0 +1,71 @@
+### 1. NHẬN DIỆN ĐỘNG TÁC
+
+- **Xác định động tác:** Dựa trên dữ liệu góc độ khớp và các tiêu chuẩn đã cho, có thể xác định rằng người chơi đang thực hiện nhiều động tác khác nhau trong suốt chuỗi dữ liệu. Tuy nhiên, để xác định chính xác từng động tác, cần có thêm thông tin về thứ tự và thời điểm thực hiện từng động tác. Dựa vào dữ liệu, có thể thấy các động tác như "Serve", "Forehand_Drive", "Dink", và "Volley" có thể đã được thực hiện.
+- **Thời gian thực hiện:** Từ t=0.0 đến t=11.656
+
+### 2. CHI TIẾT LỖI (Timeline từng giây)
+
+#### Giây 0:
+- ⏱️ **Giây 0.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 125.9° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 1:
+- ⏱️ **Giây 1.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 126.9° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 2:
+- ⏱️ **Giây 2.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 128.6° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 3:
+- ⏱️ **Giây 3.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 129.5° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 4:
+- ⏱️ **Giây 4.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 131.0° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 5:
+- ⏱️ **Giây 5.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 103.2° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 6:
+- ⏱️ **Giây 6.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 103.2° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 7:
+- ⏱️ **Giây 7.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 103.2° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 8:
+- ⏱️ **Giây 8.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 103.2° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 9:
+- ⏱️ **Giây 9.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 103.2° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 10:
+- ⏱️ **Giây 10.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 103.2° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+#### Giây 11:
+- ⏱️ **Giây 11.0:** Lỗi Ready_Position.
+  + Góc Right Knee: 103.2° (Chuẩn: 135-155°)
+  + Sửa: Tăng góc gập gối phải để đạt chuẩn.
+
+### 3. KẾT LUẬN
+
+- **Tổng số lỗi phát hiện:** 11 lỗi.
+- **Đánh giá mức độ nghiêm trọng:** Các lỗi chủ yếu liên quan đến góc gập gối phải không đạt chuẩn trong tư thế sẵn sàng. Điều này có thể ảnh hưởng đến sự ổn định và hiệu quả của các động tác tiếp theo. Cần điều chỉnh để cải thiện tư thế và tránh chấn thương.
