@@ -1,0 +1,23 @@
+{
+    "analysis_summary": "Bạn có nền tảng khá tốt: tư thế chờ ổn, trọng tâm thấp, có bước chân vào bóng và follow-through rõ. Tuy nhiên ở cả forehand và backhand drive bạn đang dùng tay/đánh quét ngang hơi nhiều, điểm tiếp xúc đôi lúc hơi muộn và mặt vợt thay đổi trong lúc chạm bóng, dễ làm bóng bay cao/thiếu ổn định khi tăng tốc. Nếu cải thiện xoay hông-vai (unit turn), giữ cổ tay ổn định và tiếp xúc phía trước cơ thể hơn, lực và độ chính xác sẽ tăng rõ.",
+    "moves": [
+        {
+            "move_name": "Forehand Drive",
+            "start_time": "00:00",
+            "end_time": "00:06",
+            "duration": "6s",
+            "is_correct": false,
+            "error_details": "1) Takeback/Unit turn chưa đủ: vai-hông xoay ít, vợt đưa ra sau bằng tay nhiều nên lực chủ yếu từ cánh tay.\n2) Điểm tiếp xúc có xu hướng hơi muộn (bóng đi ngang qua hông mới quét), khiến đường vung quét ngang nhiều và khó kiểm soát hướng.\n3) Mặt vợt ở vùng tiếp xúc hơi mở và thay đổi theo cổ tay, dễ làm bóng bổng hoặc thiếu độ xuyên.\n4) Kết thúc vung tay khá lớn nhưng trọng tâm đôi lúc chưa chuyển mượt từ chân sau sang chân trước (đặc biệt khi bước dài).",
+            "improvement_tip": "Tập 3 ý chính: (a) Unit turn sớm: xoay vai-hông cùng lúc khi nhận bóng, vợt lùi theo thân người (không kéo bằng tay). (b) Tiếp xúc trước hông 20–40cm, tưởng tượng đánh qua ‘điểm trước người’ rồi mới follow-through. (c) Khóa cổ tay tương đối (firm wrist), mặt vợt hơi đóng nhẹ và vung theo hướng ‘thấp lên cao vừa phải’ để bóng đi xuyên, không quét ngang."
+        },
+        {
+            "move_name": "Backhand Drive (Two-handed)",
+            "start_time": "00:06",
+            "end_time": "00:12",
+            "duration": "6s",
+            "is_correct": false,
+            "error_details": "1) Chuẩn bị vợt cao và hơi sau đầu, nhưng khi vào bóng bạn hạ vợt xuống rồi quét lên khá gấp, dễ làm timing khó và bóng bốc.\n2) Điểm tiếp xúc có xu hướng ở gần giữa người/ hơi muộn; thân người chưa ‘đóng’ đủ (unit turn) trước khi bước vào.\n3) Trọng tâm dồn về chân trước nhưng đầu gối/hông đôi lúc không giữ ổn định, khiến thân trên ngửa nhẹ khi follow-through.\n4) Đường vung hơi vòng và quét ngang; thiếu cảm giác “đẩy xuyên qua bóng” bằng thân người.",
+            "improvement_tip": "Giữ backswing gọn hơn: vợt ở trước ngực/chéo vai, khuỷu tay gần thân. Xoay vai-hông sớm, bước chân ngoài (chân trái nếu bạn thuận tay phải) đặt chắc rồi mới vung. Tiếp xúc trước thân người, cảm giác ‘đẩy’ bằng xoay thân + duỗi nhẹ chân, mặt vợt ổn định qua điểm chạm (không bẻ cổ tay)."
+        }
+    ]
+}

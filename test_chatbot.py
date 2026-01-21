@@ -105,7 +105,7 @@ def analyze_single_file(file_path, standards_data):
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # Dùng gpt-4o-mini để tiết kiệm nếu muốn
+            model="gpt-4o", 
             messages=[
                 {"role": "system", "content": "Bạn là chuyên gia phân tích dữ liệu thể thao khắt khe."},
                 {"role": "user", "content": prompt}
