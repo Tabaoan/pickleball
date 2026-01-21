@@ -160,7 +160,7 @@ def analyze_pickleball_video(video_path):
 
 # --- CHẠY CHƯƠNG TRÌNH ---
 if __name__ == "__main__":
-    video_file = r"C:\Users\tabao\OneDrive\Desktop\Vitex\short_pickle.mp4"
+    video_file = r"C:\Users\tabao\Downloads\2.mp4"
 
     if os.path.exists(video_file):
         analysis_result, cost_info = analyze_pickleball_video(video_file)
